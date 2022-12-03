@@ -36,4 +36,8 @@ export const globalStyles = globalCss({
     label: {
         cursor: 'pointer',
     },
+
+    '.countdown-button': {
+        marginTop: '2rem',
+    }
 })
